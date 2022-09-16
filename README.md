@@ -22,6 +22,7 @@ world.events.tick.subscribe(() => {
   }
 });
 ```
+This is where you can add an item to be given lore or add lore to the item in the template. For example if you add another element to the setLore array, it will add a new line. To stay on the same line you need to stay within the same element.
 
 ## Contributing to `CH3 Item Info`
 To contribute to `CH3 Item Info`, follow these steps:
