@@ -16,7 +16,8 @@ world.events.tick.subscribe(() => {
     if(newItem?.id != "minecraft:diamond_pickaxe") continue;
     newItem.setLore([
     `§e§lMerchant: ${getScore(player, "Merchant")}`,
-    `§bGem Finder: ${getScore(player, "GemFinder")}`
+    `§bGem Finder: ${getScore(player, "GemFinder")}`,
+    //`New Line: ${getScore(player, "GemFinder")}`
 ]);
     player.getComponent("minecraft:inventory").container.setItem(slot, newItem);
   }
