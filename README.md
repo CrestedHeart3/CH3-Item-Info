@@ -1,7 +1,7 @@
 # CH3-Item-Info
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
-![Discord](https://img.shields.io/discord/885368502859477022)
+![Discord](https://img.shields.io/discord/885368502859477022) 
 ![Github Followers](https://img.shields.io/github/followers/CrestedHeart3)
 
 CH3 Item Info is a Minecraft add-on that uses gametest. Gametest is a experimental framework that needs to be enabled in your world / realm / server.
